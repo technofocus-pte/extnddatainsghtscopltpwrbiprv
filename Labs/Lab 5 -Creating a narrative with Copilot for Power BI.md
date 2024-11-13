@@ -12,21 +12,21 @@ button
     pane.
 
 > ![A screenshot of a computer Description automatically
-> generated](./media/image1.png)
+> generated](./media/media5/image1.png)
 
 2.  Select **More options (…)** next to a semantic model **Sales.**
     Select **Create report**
 
-![](./media/image2.png)
+![](./media/media5/image2.png)
 
 3.  In the **Visualizations** pane, select the **Narrative** icon.
 
-![](./media/image3.png)
+![](./media/media5/image3.png)
 
 4.  In **Choose a narrative type**, select the **Copilot** button to use
     the new narrative visual.
 
-![](./media/image4.png)
+![](./media/media5/image4.png)
 
 5.  Select an option in the **Create a narrative with Copilot** dialog
     and select **Create**.
@@ -34,12 +34,12 @@ button
 6.  For this lab, in the dialog box let the **Summarize the data** text
     be as it and click on update for narrative to be generated
 
-![](./media/image5.png)
+![](./media/media5/image5.png)
 
 7.  It takes approximately 1-2 minutes to generate.
 
 ![A screenshot of a computer Description automatically
-generated](./media/image6.png)
+generated](./media/media5/image6.png)
 
 8.  Read through the summary to make sure it's accurate.
 
@@ -47,16 +47,16 @@ generated](./media/image6.png)
     Copilot**, give instructions to change it, or use one of the
     suggested prompts.
 
-![](./media/image7.png)
+![](./media/media5/image7.png)
 
 10. Select the footnotes to view references to specific visuals in the
     summary.
 
-![](./media/image8.png)
+![](./media/media5/image8.png)
 
 11. Power BI highlights the visual that the footnote refers to.
 
-![](./media/image9.png)
+![](./media/media5/image9.png)
 
 Save the report.
 
@@ -69,12 +69,12 @@ Save the report.
 3.  Select a **data source \> OneLake data hub**
 
 ![A screenshot of a computer Description automatically
-generated](./media/image10.png)
+generated](./media/media5/image10.png)
 
 4.  Select **Vendor List** semantic model and select **Connect**
 
 ![A screenshot of a computer Description automatically
-generated](./media/image11.png)
+generated](./media/media5/image11.png)
 
 5.  Create two report pages for the model.
 
