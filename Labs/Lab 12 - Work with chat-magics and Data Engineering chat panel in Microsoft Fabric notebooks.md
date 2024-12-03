@@ -168,46 +168,4 @@ generated](./media/media12/image24.png)
 
 ![](./media/media12/image25.png)
 
-## Task 6 – Using %%chat command
-
-1.  Expand the Tables option on the left navigation pane. You will find
-    the see the dimension_customer file that we imported.
-
-![](./media/media12/image26.png)
-
-2.  Drag and drop the table on the right-hand side. The notebook
-    automatically will create a statement for reading it into the data
-    frame. Run the cell and we get the information displayed
-    accordingly.
-
-![](./media/media12/image27.png)
-
-3.  Now, the copilot does the coding work. Hover the mouse on an empty
-    screen and select code
-
-![A screenshot of a computer Description automatically
-generated](./media/media12/image28.png)
-
-## Task 7 – Using %%Code
-
-Task 1 -
-
-# 
-
-# 
-
-# 
-
-# 
-
-# 
-
-# 
-
-# 
-
-# 
-
-# 
-
-# 
+Note - Since this is in preview mode, not all the commands will be downloaded. once this is generally available, the commands will be downloaded.
