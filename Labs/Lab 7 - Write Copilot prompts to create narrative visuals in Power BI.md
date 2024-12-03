@@ -1,9 +1,11 @@
 # Write Copilot prompts to create narrative visuals in Power BI
 
+**Objective** - In this Lab, You will create few prompts to Copilot to create Narrative
+
 ## Task 1 - Generate report using Copilot in Power BI Service
 
 1.  Switch to Power BI Fabric Portal -
-    \`https://app.fabric.microsoft.com/home?experience=power-bi\` with
+    <https://app.fabric.microsoft.com/home?experience=power-bi> with
     the credentials provided to you
 
 2.  Select the workspace that you created.
@@ -13,7 +15,7 @@
 ![A screenshot of a computer Description automatically
 generated](./media/media7/image1.png)
 
-4.  Enter \`**Semantic\`** in the **Search** box and select **Semantic
+4.  Enter `Semantic` in the **Search** box and select **Semantic
     model** from the list.
 
 ![A white background with black text Description automatically
@@ -138,3 +140,5 @@ generated](./media/media7/image21.png)
 ![](./media/media7/image22.png)
 
 6.  The copilot generates output narrative accordingly.
+
+**Summary** - Congratulations!! You have successfully created prompts to Copilot to create Narrative
