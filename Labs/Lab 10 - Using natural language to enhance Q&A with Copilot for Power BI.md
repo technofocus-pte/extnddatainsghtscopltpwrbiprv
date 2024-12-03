@@ -1,5 +1,7 @@
 # Using natural language to enhance Q&A with Copilot for Power BI
 
+**Objective** - In this Lab, you will learn about using Q&A module in Power BI with Copilot
+
 ## Exercise 1 - Use Power BI Q&A to explore your data and create visuals on a dashboard
 
 ### Task 1 – Import a Sales and Marketing Sample file.
@@ -139,3 +141,6 @@ generated](./media/media10/image19.png)
 10. The result is displayed
 
 ![](./media/media10/image20.png)
+
+
+**Summary** - Congratulations!! You have successfully learnt about using Q&A module in Power BI with Copilot

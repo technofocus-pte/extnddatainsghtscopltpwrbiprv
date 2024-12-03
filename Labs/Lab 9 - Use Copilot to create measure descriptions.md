@@ -1,5 +1,7 @@
 # Use Copilot to create measure descriptions
 
+**Objective** - In this Lab, you will learn about to how to create measure and measure description in Power BI Desktop
+
 ## Task 1 - Enable the preview feature
 
 1.  Launch the Power BI Desktop that is available on the desktop.
@@ -132,3 +134,5 @@ generated](./media/media9/image15.png)
     edit the description, if you need to.
 
 ![](./media/media9/image17.png)
+
+**Summary** - Congratulations!! You have successfully learnt about to how to create measure and measure description in Power BI Desktop

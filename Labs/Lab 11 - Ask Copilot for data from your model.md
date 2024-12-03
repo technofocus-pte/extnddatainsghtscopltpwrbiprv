@@ -1,5 +1,7 @@
 # Ask Copilot for data from your model
 
+**Objective** - In this Lab, you will learn about querying Copilot with questions regarding your model and checking your answers
+
 ## Task 1 – Import a PBIX file in Power BI Desktop
 
 1.  Launch the **Power BI Desktop** app on the Desktop
@@ -70,3 +72,5 @@ generated](./media/media11/image6.png)
 **Note –** Accordingly you can analyse the data and ask copilot the
 questions to retrieve the answers about the model. You can filter by
 year to know the details.
+
+**Summary** - Congratulations!! You have successfully learnt about querying Copilot with questions regarding your model and checking your answers

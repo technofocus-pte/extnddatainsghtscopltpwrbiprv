@@ -1,5 +1,7 @@
 # Use the Copilot chat pane, code completion and quick actions for Synapse Data Warehouse
 
+**Objective** - In this Lab, You will learn to use the Copilot chat pane, code completion and quick actions for Synapse Data Warehouse
+
 ## Task 1 - Create a new Fabric Workspace
 
 1.  Switch back to Fabric Home page -
@@ -135,3 +137,6 @@ generated](./media/media13/image16.png)
 
 > ![A screenshot of a computer Description automatically
 > generated](./media/media13/image18.png)
+
+
+**Summary** - Congratulations!! You have successfully learnt to use the Copilot chat pane, code completion and quick actions for Synapse Data Warehouse

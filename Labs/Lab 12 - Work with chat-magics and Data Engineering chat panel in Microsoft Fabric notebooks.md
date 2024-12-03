@@ -1,5 +1,8 @@
 # Work with chat-magics and Data Engineering chat panel in Microsoft Fabric notebooks
 
+**Objective** - In this Lab, You will learn about Data Engineering module in Microsoft Fabric. 
+You will learn about how to work  with chat-magics and Data Engineering chat panel in Microsoft Fabric notebooks
+
 ## Task 1 - Create a new Fabric Workspace
 
 1.  Switch back to Fabric Home page -
@@ -63,7 +66,7 @@ generated](./media/media12/image8.png)
 3.  On the **Connect to data source** pane, select the **Upload
     file** radio button. Click on the **Browse button** and browse to
     **C:\LabFiles** on your VM, then select
-    ***dimension_customer.csv*** file and click on **Open** button.
+    **dimension_customer.csv** file and click on **Open** button.
 
 ![A screenshot of a computer Description automatically
 generated](./media/media12/image9.png)
@@ -169,3 +172,6 @@ generated](./media/media12/image24.png)
 ![](./media/media12/image25.png)
 
 Note - Since this is in preview mode, not all the commands will be downloaded. once this is generally available, the commands will be downloaded.
+
+**Summary** - Congratulations!! You have successfully learnt about Data Engineering module in Microsoft Fabric. 
+You will learn about how to work  with chat-magics and Data Engineering chat panel in Microsoft Fabric notebooks

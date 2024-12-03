@@ -1,5 +1,7 @@
 # Access the Real-Time Intelligence Copilot and improve the accuracy 
 
+**Objective** - In this Lab, You will learn about using Real-Time Intelligence Copilot and improve the accuracy 
+
 ## Task 1 - Create KQL Database
 
 1.  On the Fabric Home page. <https://app.fabric.microsoft.com>. Login
@@ -82,3 +84,6 @@ generated](./media/media14/image13.png)
 
 ![A screenshot of a computer Description automatically
 generated](./media/media14/image14.png)
+
+
+**Summary** - Congratulations!! You have successfully learnt to access the Real-Time Intelligence Copilot and improve the accuracy 
