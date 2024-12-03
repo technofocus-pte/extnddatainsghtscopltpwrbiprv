@@ -1,11 +1,15 @@
 # Create reports in the Power BI service and Power BI Desktop with Copilot 
 
+**Objective** 
+
+In this lab, you will use Power BI with Copilot to create and generate reports 
+
 ## Exercise 1 - Creating reports in the Power BI service with Copilot
 
 ### Task 1 - Generate report using Copilot in Power BI Service
 
 1.  Switch to Power BI Fabric Portal -
-    \`https://app.fabric.microsoft.com/home?experience=power-bi\` with
+    <https://app.fabric.microsoft.com/home?experience=power-bi> with
     the credentials provided to you
 
 2.  Select the workspace that you created.
@@ -14,7 +18,7 @@
 
 ![](./media/media2/image1.png)
 
-4.  Enter \`**Semantic\`** in the **Search** box and select **Semantic
+4.  Enter `Semantic` in the **Search** box and select **Semantic
     model** from the list.
 
 ![](./media/media2/image2.png)
@@ -52,7 +56,7 @@ generated](./media/media2/image7.png)
 
 ![](./media/media2/image8.png)
 
-13. In the ribbon, select the** Copilot **icon**.**
+13. In the ribbon, select the **Copilot** icon.
 
 ![](./media/media2/image9.png)
 
@@ -168,3 +172,6 @@ generated](./media/media2/image25.png)
 
 ![A screenshot of a computer Description automatically
 generated](./media/media2/image26.png)
+
+
+**Summary** - Congratulations!  You have successfully understood how to use Power BI with Copilot to create and generate reports 
