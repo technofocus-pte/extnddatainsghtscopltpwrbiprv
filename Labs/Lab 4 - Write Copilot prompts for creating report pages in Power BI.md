@@ -1,9 +1,11 @@
 # Write Copilot prompts for creating report pages in Power BI
 
+**Objective** - In this Lab, you will be writing sample prompts to recedive proper information regarding your model to copilot in Power BI 
+
 ## Task 1 – Upload the Sales Data to Power BI workspace.
 
 1.  Switch to Power BI Fabric Portal -
-    \`https://app.fabric.microsoft.com/home?experience=power-bi\` and
+    <https://app.fabric.microsoft.com/home?experience=power-bi> and
     login with the credentials provided if you are logged out
 
 2.  Select the workspace that you created.
@@ -12,7 +14,7 @@
 
 ![](./media/media4/image1.png)
 
-4.  Enter \`**Semantic\`** in the **Search** box and select **Semantic
+4.  Enter `Semantic` in the **Search** box and select **Semantic
     model** from the list.
 
 ![A white background with black text Description automatically
@@ -122,3 +124,6 @@ generated](./media/media4/image20.png)
     Item”.** Copilot generates the report page accordingly.
 
 ![](./media/media4/image21.png)
+
+
+**Summary** - Congratulations!!  You have successfully created prompts and pages with the help of COpilot in Power BI

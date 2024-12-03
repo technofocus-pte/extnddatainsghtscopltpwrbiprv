@@ -6,8 +6,13 @@ specific needs, guiding you through the exploration process. Whether
 you're unsure where to begin or seeking deeper insights, Copilot can
 lend a helping hand.
 
+**Objective** - In this Lab, You will upload a report and tell Copilot what you're looking for, 
+and if the answer isn't already visualized on your report, Copilot will query your model and return the answer to your question in the form of a visual.
+
+
+
 1.  Switch to Power BI Fabric Portal -
-    \`https://app.fabric.microsoft.com/home?experience=power-bi\` with
+    <https://app.fabric.microsoft.com/home?experience=power-bi> with
     the credentials provided to you
 
 2.  Select the workspace that you created.
@@ -17,7 +22,7 @@ lend a helping hand.
 ![A screenshot of a computer Description automatically
 generated](./media/media3/image1.png)
 
-4.  Enter \`**Semantic\`** in the **Search** box and select **Semantic
+4.  Enter `Semantic` in the **Search** box and select **Semantic
     model** from the list.
 
 ![A white background with black text Description automatically
@@ -68,7 +73,7 @@ generated](./media/media3/image10.png)
 
 Task 2 – Asking questions about the data
 
-1.  Enter “**Create a bulleted list of insights**”. - The copilots
+1.  Enter `Create a bulleted list of insights`. - The copilots
     interprets the prompt and generates the output accordingly.
 
 ![](./media/media3/image11.png)
@@ -96,3 +101,5 @@ Task 2 – Asking questions about the data
 
 ![Screens screenshot of a phone Description automatically
 generated](./media/media3/image16.png)
+
+**Summary** - Congratulations! You have successfully understood how to get answers from Copilot regarding the data of your model
