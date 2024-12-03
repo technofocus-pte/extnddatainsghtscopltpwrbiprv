@@ -2,6 +2,8 @@
 
 **Objective** - In this Lab, You will know how to Summarize a report in the Copilot pane
 
+## Task 1 - Summarize a report in the Copilot pane
+
 1.  Switch to Power BI Fabric Portal -
     <https://app.fabric.microsoft.com/home?experience=power-bi> with
     the credentials provided to you
@@ -72,5 +74,19 @@ generated](./media/media6/image9.png)
 
 ![A screenshot of a phone Description automatically
 generated](./media/media6/image10.png)
+
+## Task 2 - Stop the Fabric Capacity from Azure Portal
+
+1. Navigate to Azure Portal - <https://portal.azure.com/#home>
+
+2. Select **All resources** under **Navigate**. 
+
+3. Select your **Fabric Capacity** that is visible
+
+4. Select **Pause**
+
+5. Select **Yes** when you receive a pop up asking for confirmation.
+
+6. The Fabric Capacity is paused.
 
 **Summary** - Congratulations!! You have successfully summarized a report in the Copilot pane

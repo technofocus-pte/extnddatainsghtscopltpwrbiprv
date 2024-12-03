@@ -2,6 +2,8 @@
 
 **Objective** - In this Lab, You will create few prompts to Copilot to create Narrative
 
+**Note** - You need to resume the Fabric capacity that you paused yesterday
+
 ## Task 1 - Generate report using Copilot in Power BI Service
 
 1.  Switch to Power BI Fabric Portal -
