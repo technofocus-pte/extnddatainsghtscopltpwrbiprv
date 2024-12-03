@@ -1,5 +1,11 @@
 # Enable Fabric Copilot for Power BI to use it for Power BI service and Power BI Desktop
 
+**Objective** 
+
+1. In this lab, you will enable the trial Fabric license and create a Fabric capacity which you will be using to execute the further labs
+
+2. You will also know to use Copilot in Power BI service and desktop
+
 ## Task 1 - Enable Fabric Trial License
 
 1.  Open a browser and paste the Fabric
@@ -60,7 +66,7 @@ should be all set!
 To create a Fabric capacity outside of a trial environment, create a new
 resource from the Azure portal, and search for Fabric.
 
-1.  Login to Azure Portal – <https://portal.azure.com> with the
+1.  Open a new tab in the browser. Login to Azure Portal – <https://portal.azure.com> with the
     credentials provided to you to execute the lab.
 
 2.  From the Azure portal home page, click on **Azure portal menu**
@@ -93,7 +99,17 @@ resource from the Azure portal, and search for Fabric.
     enter the following details and click on the **Review+create**
     button.
 
-[TABLE]
+    1. **Subscription** - Select the assigned subscription
+
+    2. **Resource group**	Click on **Create new** enter ``FabricXXX`` (XXX can be a unique number, you can add more digits after XXX to make the name unique)
+
+    3. **Capacity name** - !!fabricXXX!!( XXX can be a unique number, you can add more digits after XXX to make the name unique)
+
+    4. **Region** - Select near by available region, in this lab **West US 3** is using for this resource
+
+    5. **Size**	 -  F64 SKU 
+
+        
 
 > ![](./media/media1/image12.png)
 
@@ -192,3 +208,6 @@ generated](./media/media1/image23.png)
 
 ![A screenshot of a phone Description automatically
 generated](./media/media1/image28.png)
+
+
+**Summary** - Congratulations !! You have successfully enabled the license and created the Fabric Capacity to use Copilot in Power BI service and desktop
