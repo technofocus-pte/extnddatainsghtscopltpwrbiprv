@@ -1,7 +1,9 @@
 # Summarize a report in the Copilot pane
 
+**Objective** - In this Lab, You will know how to Summarize a report in the Copilot pane
+
 1.  Switch to Power BI Fabric Portal -
-    \`https://app.fabric.microsoft.com/home?experience=power-bi\` with
+    <https://app.fabric.microsoft.com/home?experience=power-bi> with
     the credentials provided to you
 
 2.  Select the workspace that you created.
@@ -10,7 +12,7 @@
 
 ![](./media/media6/image1.png)
 
-4.  Enter \`**Semantic\`** in the **Search** box and select **Semantic
+4.  Enter `Semantic` in the **Search** box and select **Semantic
     model** from the list.
 
 ![](./media/media6/image2.png)
@@ -70,3 +72,5 @@ generated](./media/media6/image9.png)
 
 ![A screenshot of a phone Description automatically
 generated](./media/media6/image10.png)
+
+**Summary** - Congratulations!! You have successfully summarized a report in the Copilot pane
