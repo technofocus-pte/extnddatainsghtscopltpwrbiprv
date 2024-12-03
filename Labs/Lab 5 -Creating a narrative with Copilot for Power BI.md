@@ -1,11 +1,14 @@
 # Creating a narrative with Copilot for Power BI
 
+**Objective** - In this Lab, you will create a Narrative in both Power Bi Service and Descktop
+
 ## Task 1 – Creating a Narrative in Power BI service
 
 In the Power BI service, you need to be in an appropriate workspace to
 see the Narratives with Copilot visual button in the Visualizations
 pane. The Copilot visual button is the same as the old narratives visual
 button
+
 
 1.  The **Narrative** visual needs content to summarize, so in the Power
     BI service, select the **OneLake data hub** from the left navigation
@@ -79,3 +82,7 @@ generated](./media/media5/image11.png)
 5.  Create two report pages for the model.
 
 6.  Perform the same steps as you performed for Power BI service.
+
+
+**Summary** - 
+**Objective** - Congratulations!! You have successfully created a Narrative in both Power Bi Service and Descktop
