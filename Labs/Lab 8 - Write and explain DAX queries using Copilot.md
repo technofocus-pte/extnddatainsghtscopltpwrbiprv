@@ -1,5 +1,7 @@
 # Write and explain DAX queries using Copilot
 
+**Objective** - In this Lab, you will know about how to write DAX queries using Copilot in Power BI desktop
+
 ## Task 1 – Import a report in Power BI Desktop
 
 1.  Launch the **Power BI Desktop** app on the Desktop
@@ -105,3 +107,6 @@ generated](./media/media8/image14.png)
 
 Note – You can use several DAX queries available for your report – [DAX
 Queries](https://learn.microsoft.com/en-us/dax/average-function-dax)
+
+
+**Summary** - Congratulations!! You have successfully written DAX queries using Copilot in Power BI desktop
