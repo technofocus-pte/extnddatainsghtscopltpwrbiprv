@@ -37,7 +37,7 @@ generated](./media/media10/image3.png)
 
 9.  To customize your visual, select a suggested question or enter text
     in the Q&A question field, where it says *Ask a question about your
-    data –* Enter - **top geo states by sum of revenue**.
+    data –* Enter - **top geo states by sum of revenue in the list form**.
 
 Power BI determines the appropriate visual type based on the selected
 suggestion or entered text. In our example, Power BI determines that a
@@ -45,14 +45,6 @@ map visual is best suited to display the data.
 
 ![](./media/media10/image5.png)
 
-10. You can also instruct Power BI to use a specific visual type by
-    adding the type to the text you enter in the **Q&A question field**.
-    For example, the data in our example isn't meaningful when presented
-    on a scatter chart, but it's helpful when shown as a filled map.
-
-11. Enter - **top geo states by sum of revenue** **filled map**
-
-![](./media/media10/image6.png)
 
 ### Task 2 - Create a Q&A visual with a natural language query
 
