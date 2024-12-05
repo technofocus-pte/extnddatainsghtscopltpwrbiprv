@@ -263,7 +263,7 @@ generated](./media/media1/image28.png)
 
 12.	 Give a proper name for the table and select Load.
 
-    ![](./media/media1/image39.png)
+     ![](./media/media1/image39.png)
  
 13.	It will take some time to load.
 
@@ -273,7 +273,7 @@ generated](./media/media1/image28.png)
  
 14.	 You will see the table is created.
 
-    ![](./media/media1/image42.png)
+     ![](./media/media1/image42.png)
  
 15.	Perform the same steps for the other three tables.
 
