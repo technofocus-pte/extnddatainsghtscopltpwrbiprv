@@ -8,42 +8,25 @@ In this lab, you will use Power BI with Copilot to create and generate reports
 
 ### Task 1 - Generate report using Copilot in Power BI Service
 
-1.  Switch to Power BI Fabric Portal -
-    <https://app.fabric.microsoft.com/home?experience=power-bi> with
-    the credentials provided to you
+1. Select the **vendors** table.
 
-2.  Select the workspace that you created.
+   
 
-3.  Select **New item.**
+2. Select the drop-down under **Lakehouse** on the top right corner of the page. Select **SQL analytics endpoint**
 
-![](./media/media2/image1.png)
+    ![](./media/media2/image1.png)
 
-4.  Enter `Semantic` in the **Search** box and select **Semantic
-    model** from the list.
+3. Select **Reporting** tab. Select **New report**
 
-![](./media/media2/image2.png)
+    ![](./media/media2/image2.png)
 
-5.  Select **Excel** to start building the report
+4. It will navigate you to Power BI report page.
 
-![A screenshot of a computer Description automatically
-generated](./media/media2/image3.png)
+    
 
-6.  Select **Upload a file** and **Browse**
+5.	Select the **Table** visualization
 
-![](./media/media2/image4.png)
-
-7.  Navigate to **C:\Lab Files.** Select **Vendors List.xlsx.** Select
-    **Open**
-
-8.  Select **Sign in** and then **Next.**
-
-9.  Select **Sheet 1** and then **Create.**
-
-![](./media/media2/image5.png)
-
-10. It takes a minute to create.
-
-![](./media/media2/image6.png)
+    ![](./media/media2/image3.png)
 
 11. Click on the mouse anywhere else on the page. Select **Name** and
     **City** on the right side of the page under **Data \> Sheet1**
