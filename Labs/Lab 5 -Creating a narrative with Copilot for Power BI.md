@@ -10,17 +10,9 @@ pane. The Copilot visual button is the same as the old narratives visual
 button
 
 
-1.  The **Narrative** visual needs content to summarize, so in the Power
-    BI service, select the **OneLake data hub** from the left navigation
-    pane.
+1. Currently, you are on the **Sales** report page.
 
-> ![A screenshot of a computer Description automatically
-> generated](./media/media5/image1.png)
-
-2.  Select **More options (…)** next to a semantic model **Sales.**
-    Select **Create report**
-
-![](./media/media5/image2.png)
+2.  Open a New page in the report.
 
 3.  In the **Visualizations** pane, select the **Narrative** icon.
 
