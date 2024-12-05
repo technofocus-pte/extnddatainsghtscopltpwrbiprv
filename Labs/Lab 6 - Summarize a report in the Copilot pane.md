@@ -39,7 +39,7 @@ generated](./media/media6/image9.png)
 ![A screenshot of a phone Description automatically
 generated](./media/media6/image10.png)
 
-## Task 2 - Stop the Fabric Capacity from Azure Portal
+## Task 2 - Delete the Fabric Capacity from Azure Portal
 
 1. Navigate to Azure Portal - <https://portal.azure.com/#home>
 
@@ -47,10 +47,11 @@ generated](./media/media6/image10.png)
 
 3. Select your **Fabric Capacity** that is visible
 
-4. Select **Pause**
+4. Select **Delete**
 
-5. Select **Yes** when you receive a pop up asking for confirmation.
+5. Enter the capacity name and Select **Delete** 
 
-6. The Fabric Capacity is paused.
+6. The Fabric Capacity is deleted.
+
 
 **Summary** - Congratulations!! You have successfully summarized a report in the Copilot pane
