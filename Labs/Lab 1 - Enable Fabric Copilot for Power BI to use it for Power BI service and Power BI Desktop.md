@@ -153,7 +153,15 @@ generated](./media/media1/image15.png)
 5.  In the **Create a workspace** pane that appears on the right side,
     enter the following details, and click on the **Apply** button.
 
-[TABLE]
+    1. **Name** - `Fabric WSXXX` (XXX can be a unique number) 
+
+    2. **Advanced**	- Under **License mode**, select **Fabric** 
+
+    3. **Default storage format** - Small semantic dataset storage format
+
+    4. **Capacity** - FabricXXX-West US3
+
+    5. **Template apps**	 -  Check the Develop template apps
 
 > ![](./media/media1/image18.png)
 >
