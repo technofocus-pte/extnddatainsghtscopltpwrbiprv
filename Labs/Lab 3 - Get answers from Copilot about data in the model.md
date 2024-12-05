@@ -15,42 +15,19 @@ and if the answer isn't already visualized on your report, Copilot will query yo
     <https://app.fabric.microsoft.com/home?experience=power-bi> with
     the credentials provided to you
 
-2.  Select the workspace that you created.
+2.  On your Power BI Home page, Select the **PowerBIfiles** Lakehouse.
 
-3.  Select **New item.**
+    ![](./media/media3/image1.png)
 
-![A screenshot of a computer Description automatically
-generated](./media/media3/image1.png)
+3.	Expand **Tables** under **Explorer** and select **Churn** Table
 
-4.  Enter `Semantic` in the **Search** box and select **Semantic
-    model** from the list.
+4.	Once you select the table, select the dropdown under **Lakehouse** and select **SQL analytics endpoint**
 
-![A white background with black text Description automatically
-generated](./media/media3/image2.png)
+5.	Select **Reporting > New report**
 
-5.  Select **Excel** to start building the report
+6. Expand Churn table under Data on the left side of the Report page
 
-![A screenshot of a computer Description automatically
-generated](./media/media3/image3.png)
-
-6.  Select **Upload a file** and **Browse**
-
-![A screenshot of a computer Description automatically
-generated](./media/media3/image4.png)
-
-7.  Navigate to **C:\Lab Files.** Select **Churn.xlsx.** Select **Open**
-
-8.  Select **Sign in** and then **Next.**
-
-9.  Select **Sheet 1** and then **Create.**
-
-![A screenshot of a computer Description automatically
-generated](./media/media3/image5.png)
-
-10. It takes a minute to create.
-
-![A screenshot of a computer Description automatically
-generated](./media/media3/image6.png)
+    ![](./media/media3/image2.png)
 
 11. Select Copilot from the ribbon.
 
