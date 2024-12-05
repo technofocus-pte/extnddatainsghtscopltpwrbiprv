@@ -209,5 +209,73 @@ generated](./media/media1/image23.png)
 ![A screenshot of a phone Description automatically
 generated](./media/media1/image28.png)
 
+## Task 5 - Import Files to Lakehouse in Fabric
+
+1.	Navigate back to Power BI Service in Microsoft Fabric Portal. Select your workspace.
+
+2.	Select New Item
+
+    ![](./media/media1/image29.png)
+ 
+3.	Search for Lakehouse and select the correct option from the list under Store data
+
+    ![](./media/media1/image30.png)
+ 
+4.	Enter the name of the Lakhouse as – PowerBIFiles. Select Create
+
+    ![](./media/media1/image31.png)
+ 
+5.	Expand Get data > Upload files
+
+    ![](./media/media1/image32.png)
+ 
+6.	Select Browse icon. 
+
+    ![](./media/media1/image33.png)
+ 
+7.	Navigate to C:\Labfiles. Select the below CSV files and select upload
+
+    1.	Vendors List.csv
+    
+    2.	Churn.csv
+
+    3.	Sales.csv
+
+    4.	Orders.csv
+
+    ![](./media/media1/image34.png)
+ 
+8.	Close the window once all the files are uploaded.
+
+    ![](./media/media1/image35.png)
+ 
+9.	Refresh the Lakehouse page for the files to visible.
+
+    ![](./media/media1/image36.png)
+ 
+10.	The files are visible for future labs.
+
+    ![](./media/media1/image37.png)
+ 
+11.	Select three horizontal dots for a file – Vendor List. Select Load to Tables> New Table
+ 
+    ![](./media/media1/image38.png)
+
+12.	 Give a proper name for the table and select Load.
+
+    ![](./media/media1/image39.png)
+ 
+13.	It will take some time to load.
+
+    ![](./media/media1/image40.png)
+ 
+    ![](./media/media1/image41.png)
+ 
+14.	 You will see the table is created.
+
+    ![](./media/media1/image42.png)
+ 
+15.	Perform the same steps for the other three tables.
+
 
 **Summary** - Congratulations !! You have successfully enabled the license and created the Fabric Capacity to use Copilot in Power BI service and desktop
