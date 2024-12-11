@@ -5,15 +5,17 @@
 
 ## Task 1 – Creating pages for the copilot generated prompts 
 
-1.  Minimize all the tables view under **Data**,Expand **Sales** table in Power BI report page. In the ribbon, select the** Copilot** icon.
+1.  Minimize all the tables view under **Data**,Expand **Sales** table in Power BI report page. In the ribbon, select the **Copilot** icon.
 
-    ![](./media/media4/image7.png)
 
 2.  In the Copilot pane, select **Suggest content for a new report
     page**. Copilot evaluates the data and makes suggestions.
 
     ![A screenshot of a computer Description automatically
 generated](./media/media4/image8.png)
+
+**Note** - The suggested prompts might be different from the one shown in this Lab as copilot uses different methodologies. You can select as per the details that you want to analyse.
+
 
 3.  On the right side of the page, under copilot pane suggested prompts
     are generated.  Each sample prompt is paired with a report page that
@@ -30,6 +32,8 @@ generated](./media/media4/image10.png)
     ![A screenshot of a phone Description automatically
 generated](./media/media4/image11.png)
 
+**Note** - The suggested Output might be different from the one shown in this Lab as Copilot uses different methodologies. You can select as per the details that you want to analyse.
+
 5.  The page is created accordingly.
 
     ![A screenshot of a computer Description automatically
@@ -38,16 +42,21 @@ generated](./media/media4/image12.png)
 6.  **Customer Insights –** Select **Create**, and the page will be
     created accordingly.
 
+
     ![](./media/media4/image13.png)
 
     ![A screenshot of a computer Description automatically
 generated](./media/media4/image14.png)
+
+**Note** - The suggested prompts might be different from the one shown in this Lab as copilot uses different methodologies. You can select as per the details that you want to analyse.
 
 7.  Order Details – Select **Create.**
 
     ![](./media/media4/image15.png)
 
     ![](./media/media4/image16.png)
+
+**Note** - The suggested prompts might be different from the one shown in this Lab as copilot uses different methodologies. You can select as per the details that you want to analyse.
 
 8.  Revenue Analysis – Select **Create.**
 
@@ -56,6 +65,8 @@ generated](./media/media4/image17.png)
 
     ![A screenshot of a computer Description automatically
 generated](./media/media4/image18.png)
+
+**Note** - The suggested prompts might be different from the one shown in this Lab as copilot uses different methodologies. You can select as per the details that you want to analyse.
 
 ## Task 2 – Creating pages for the custom prompts to copilot
 
@@ -67,7 +78,10 @@ generated](./media/media4/image18.png)
     ![A screenshot of a phone Description automatically
 generated](./media/media4/image19.png)
 
-2.  If you want to understand the sales analysis base don customer
+**Note** - The suggested prompts might be different from the one shown in this Lab as copilot uses different methodologies. You can select as per the details that you want to analyse.
+
+
+2.  If you want to understand the sales analysis based on customer
     information – You Enter **“Create a new page report that shows sales
     analysis based on the customer information”**
 
@@ -79,6 +93,8 @@ generated](./media/media4/image20.png)
     Item”.** Copilot generates the report page accordingly.
 
     ![](./media/media4/image21.png)
+
+**Note** - The suggested prompts might be different from the one shown in this Lab as copilot uses different methodologies. You can select as per the details that you want to analyse.
 
 
 **Summary** - Congratulations!!  You have successfully created prompts and pages with the help of Copilot in Power BI

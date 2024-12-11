@@ -40,7 +40,10 @@ generated](./media/media3/image7.png)
     ![A screenshot of a computer Description automatically
 generated](./media/media3/image8.png)
 
-13. Select **Create** for **Customer Retention Analysis**
+**Note** - The suggested prompts might be different from the one shown in this Lab. You can select as per the details that you want to analyise
+
+13. Select **Create** for **Customer Churn Analysis**
+
 
     ![](./media/media3/image9.png)
 
@@ -56,7 +59,7 @@ generated](./media/media3/image10.png)
 
     ![](./media/media3/image11.png)
 
-2.  This gives a clear view of the model that is uploaded.
+2.  This gives a clear view of the model that is uploaded for you to analyse.
 
     ![](./media/media3/image12.png)
 
@@ -75,9 +78,5 @@ generated](./media/media3/image10.png)
 
 6.  Copilot analyses the visual and provides the out put accordingly.
 
-    ![](./media/media3/image15.png)
-
-    ![Screens screenshot of a phone Description automatically
-generated](./media/media3/image16.png)
 
 **Summary** - Congratulations! You have successfully understood how to get answers from Copilot regarding the data of your model

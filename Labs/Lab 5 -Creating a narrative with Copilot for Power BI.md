@@ -53,6 +53,8 @@ generated](./media/media5/image6.png)
 
     ![](./media/media5/image9.png)
 
+
+
 Save the report.
 
 ## Task 2 – Creating a Narrative in Power BI Desktop.
