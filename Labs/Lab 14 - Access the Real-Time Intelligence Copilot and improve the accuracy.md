@@ -1,4 +1,4 @@
-# Access the Real-Time Intelligence Copilot and improve the accuracy 
+# Lab 14 - Access the Real-Time Intelligence Copilot and improve the accuracy 
 
 **Objective** - In this Lab, You will learn about using Real-Time Intelligence Copilot and improve the accuracy 
 
@@ -10,59 +10,59 @@
 2.  Select **Real-Time Intelligence** from the Bottom left corner of the
     Microsoft Fabric Home page.
 
-![](./media/media14/image1.png)
+    ![](./media/media14/image1.png)
 
 3.  Select **EventHouse** under **Recommended items to create**
 
-![](./media/media14/image2.png)
+    ![](./media/media14/image2.png)
 
 **Note** – Make sure you are creating under a fabric capacity workspace.
 
 4.  Enter the database name as – Database 1
 
-![](./media/media14/image3.png)
+    ![](./media/media14/image3.png)
 
 5.  Select three horizontal dots beside the database name. Select **Get
     Data \> Sample.**
 
-![](./media/media14/image4.png)
+    ![](./media/media14/image4.png)
 
 6.  Select **Stock Analysis.**
 
-![](./media/media14/image5.png)
+    ![](./media/media14/image5.png)
 
 7.  The table is loaded
 
-![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/media14/image6.png)
 
 ## Task 2 - Create a KQL Query Set
 
 1.  Select **Real-Time Intelligence** and Select **KQL QuerySet**
 
-![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/media14/image7.png)
 
 2.  Enter **Demo** as the name of the Query set and select **Create**
 
-![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/media14/image8.png)
 
 3.  Select the **Database 1** that you created in the previous task and
     select **Connect**
 
-![](./media/media14/image9.png)
+    ![](./media/media14/image9.png)
 
 4.  The Queryset is loaded
 
-![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/media14/image10.png)
 
 ## Task 3 - Access the Real-Time Intelligence Copilot
 
 1.  Select the **Copilot** button.
 
-![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/media14/image11.png)
 
 2.  In the Copilot pane, enter your business question in natural
@@ -77,12 +77,12 @@ generated](./media/media14/image11.png)
     must have write access to the KQL queryset. Select
     the **Run** button to execute the query.
 
-![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/media14/image13.png)
 
 5.  The Query runs successfully.
 
-![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/media14/image14.png)
 
 
