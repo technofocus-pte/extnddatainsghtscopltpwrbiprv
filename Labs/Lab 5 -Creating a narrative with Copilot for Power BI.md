@@ -1,4 +1,4 @@
-# Creating a narrative with Copilot for Power BI
+# Lab 5 - Creating a narrative with Copilot for Power BI
 
 **Objective** - In this Lab, you will create a Narrative in both Power Bi Service and Descktop
 
@@ -16,12 +16,12 @@ button
 
 3.  In the **Visualizations** pane, select the **Narrative** icon.
 
-![](./media/media5/image3.png)
+    ![](./media/media5/image3.png)
 
 4.  In **Choose a narrative type**, select the **Copilot** button to use
     the new narrative visual.
 
-![](./media/media5/image4.png)
+    ![](./media/media5/image4.png)
 
 5.  Select an option in the **Create a narrative with Copilot** dialog
     and select **Create**.
@@ -29,11 +29,11 @@ button
 6.  For this lab, in the dialog box let the **Summarize the data** text
     be as it and click on update for narrative to be generated
 
-![](./media/media5/image5.png)
+    ![](./media/media5/image5.png)
 
 7.  It takes approximately 1-2 minutes to generate.
 
-![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/media5/image6.png)
 
 8.  Read through the summary to make sure it's accurate.
@@ -42,16 +42,16 @@ generated](./media/media5/image6.png)
     Copilot**, give instructions to change it, or use one of the
     suggested prompts.
 
-![](./media/media5/image7.png)
+    ![](./media/media5/image7.png)
 
 10. Select the footnotes to view references to specific visuals in the
     summary.
 
-![](./media/media5/image8.png)
+    ![](./media/media5/image8.png)
 
 11. Power BI highlights the visual that the footnote refers to.
 
-![](./media/media5/image9.png)
+    ![](./media/media5/image9.png)
 
 Save the report.
 
@@ -63,12 +63,12 @@ Save the report.
 
 3.  Select a **data source \> OneLake data hub**
 
-![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/media5/image10.png)
 
 4.  Select **Vendor List** semantic model and select **Connect**
 
-![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/media5/image11.png)
 
 5.  Create two report pages for the model.
@@ -76,5 +76,4 @@ generated](./media/media5/image11.png)
 6.  Perform the same steps as you performed for Power BI service.
 
 
-**Summary** - 
-**Objective** - Congratulations!! You have successfully created a Narrative in both Power Bi Service and Descktop
+**Summary** - Congratulations!! You have successfully created a Narrative in both Power Bi Service and Descktop

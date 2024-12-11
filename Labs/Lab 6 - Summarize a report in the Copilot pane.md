@@ -1,4 +1,4 @@
-# Summarize a report in the Copilot pane
+# Lab 6 - Summarize a report in the Copilot pane
 
 **Objective** - In this Lab, You will know how to Summarize a report in the Copilot pane
 
@@ -11,7 +11,7 @@
 
 12. The visual appears on the left side of the page.
 
-![](./media/media6/image7.png)
+    ![](./media/media6/image7.png)
 
 13. Click on **Copilot** on the ribbon. Enter “Give me an executive
     summary”.
@@ -19,7 +19,7 @@
 14. After you choose a prompt, select **Enter** and watch Copilot
     generate your summary.
 
-![A screenshot of a phone Description automatically
+    ![A screenshot of a phone Description automatically
 generated](./media/media6/image8.png)
 
 15. You can also ask **Custom prompts.** Enter “ Give me an executive
@@ -27,7 +27,7 @@ generated](./media/media6/image8.png)
 
 16. Copilot generates the summary as per the prompt entered
 
-![A screenshot of a phone Description automatically
+    ![A screenshot of a phone Description automatically
 generated](./media/media6/image9.png)
 
 17. Copilot allows you to generate a custom summary to fit your business
@@ -36,7 +36,7 @@ generated](./media/media6/image9.png)
 
 18. The summary is generated as per the prompt.
 
-![A screenshot of a phone Description automatically
+    ![A screenshot of a phone Description automatically
 generated](./media/media6/image10.png)
 
 ## Task 2 - Delete the Fabric Capacity from Azure Portal
