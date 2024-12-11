@@ -1,4 +1,4 @@
-# Get answers from Copilot about data in the model
+# Lab 3 - Get answers from Copilot about data in the model
 
 Copilot doesn't just provide overviews and insights of report content.
 With customized requests, copilot tailors its assistance to your
@@ -10,6 +10,7 @@ lend a helping hand.
 and if the answer isn't already visualized on your report, Copilot will query your model and return the answer to your question in the form of a visual.
 
 
+## Task 1 - Import Tables to Reporting
 
 1.  Switch to Power BI Fabric Portal -
     <https://app.fabric.microsoft.com/home?experience=power-bi> with
@@ -31,33 +32,33 @@ and if the answer isn't already visualized on your report, Copilot will query yo
 
 11. Select Copilot from the ribbon.
 
-![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/media3/image7.png)
 
 12. Select **Suggest content for a new report page.**
 
-![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/media3/image8.png)
 
 13. Select **Create** for **Customer Retention Analysis**
 
-![](./media/media3/image9.png)
+    ![](./media/media3/image9.png)
 
 14. The copilot generates as per the prompt.
 
-![A screenshot of a computer screen Description automatically
+    ![A screenshot of a computer screen Description automatically
 generated](./media/media3/image10.png)
 
-Task 2 – Asking questions about the data
+## Task 2 – Asking questions about the data
 
 1.  Enter `Create a bulleted list of insights`. - The copilots
     interprets the prompt and generates the output accordingly.
 
-![](./media/media3/image11.png)
+    ![](./media/media3/image11.png)
 
 2.  This gives a clear view of the model that is uploaded.
 
-![](./media/media3/image12.png)
+    ![](./media/media3/image12.png)
 
 3.  To understand the visuals about the model, you can enter “
     **Summarize visuals on this page.”**
@@ -65,18 +66,18 @@ Task 2 – Asking questions about the data
 4.  The copilot generates and provides the summary about the visuals in
     the report.
 
-![](./media/media3/image13.png)
+    ![](./media/media3/image13.png)
 
 5.  As per the data that you have uploaded if you ask copilot to provide
     the high customer service calls by age.
 
-> ![](./media/media3/image14.png)
+    ![](./media/media3/image14.png)
 
 6.  Copilot analyses the visual and provides the out put accordingly.
 
-![](./media/media3/image15.png)
+    ![](./media/media3/image15.png)
 
-![Screens screenshot of a phone Description automatically
+    ![Screens screenshot of a phone Description automatically
 generated](./media/media3/image16.png)
 
 **Summary** - Congratulations! You have successfully understood how to get answers from Copilot regarding the data of your model
