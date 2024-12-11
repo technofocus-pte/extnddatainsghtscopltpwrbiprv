@@ -1,4 +1,4 @@
-# Write Copilot prompts to create narrative visuals in Power BI
+# Lab 7 - Write Copilot prompts to create narrative visuals in Power BI
 
 **Objective** - In this Lab, You will create few prompts to Copilot to create Narrative
 
@@ -27,27 +27,27 @@ resource from the Azure portal, and search for Fabric.
     represented by three horizontal bars on the left side of the
     Microsoft Azure command bar as shown in the below image.
 
-> ![A screenshot of a computer Description automatically
-> generated](./media/media7/image1.png)
+    ![A screenshot of a computer Description automatically
+generated](./media/media7/image1.png)
 
 3.  Navigate and click on **+ Create a resource**.
 
-> ![A screenshot of a computer Description automatically
-> generated](./media/media7/image2.png)
+    ![A screenshot of a computer Description automatically
+generated](./media/media7/image2.png)
 
 4.  On **Create a resource** page, in the **Search services and
     marketplace** search bar, type!!**Fabric!!**, then select
     **Microsoft fabric**.
 
-> ![A screenshot of a computer Description automatically
-> generated](./media/media7/image3.png)
+    ![A screenshot of a computer Description automatically
+generated](./media/media7/image3.png)
 
 5.  In the **Marketplace** page, navigate to the **Microsoft Fabric**
     section, click on the **Create** button dropdown, then select
     **Microsoft Fabric** as shown in the image.
 
-> ![A screenshot of a computer Description automatically
-> generated](./media/media7/image4.png)
+    ![A screenshot of a computer Description automatically
+generated](./media/media7/image4.png)
 
 6.  In the **Create Fabric capacity** window, under the **Basics** tab,
     enter the following details and click on the **Review+create**
@@ -65,17 +65,17 @@ resource from the Azure portal, and search for Fabric.
 
         
 
-> ![](./media/media7/image5.png)
+    ![](./media/media7/image5.png)
 
 7.  Once the Validation is succeeded, click on the **Create** button.
 
-> ![A screenshot of a computer Description automatically
-> generated](./media/media7/image6.png)
+    ![A screenshot of a computer Description automatically
+generated](./media/media7/image6.png)
 
 8.  After the deployment is completed, click on the **Go to resource**
     button.
 
-![](./media/media7/image7.png)
+    ![](./media/media7/image7.png)
 
 ## Task 2 - Create a Fabric Workspace
 
@@ -84,18 +84,18 @@ resource from the Azure portal, and search for Fabric.
 2.  Go back to **Power BI** window. Select Power BI from the left bottom
     navigation pane.
 
-![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/media7/image8.png)
 
 3.  On the left side navigation menu of **Power BI** Home page, navigate
     and click on **Workspaces**.
 
-![](./media/media7/image9.png)
+    ![](./media/media7/image9.png)
 
 4.  In the Workspaces pane, click on **+** **New workspace button.**
 
-> ![A screenshot of a computer Description automatically
-> generated](./media/media7/image10.png)
+    ![A screenshot of a computer Description automatically
+generated](./media/media7/image10.png)
 
 5.  In the **Create a workspace** pane that appears on the right side,
     enter the following details, and click on the **Apply** button.
@@ -110,24 +110,24 @@ generated](./media/media7/image8.png)
 
     5. **Template apps**	 -  Check the Develop template apps
 
-> ![](./media/media7/image11.png)
->
-> ![](./media/media7/image12.png)
+    ![](./media/media7/image11.png)
+
+    ![](./media/media7/image12.png)
 
 6.  Wait for the deployment to complete. It takes 2-3 minutes to
     complete.
 
-![](./media/media7/image13.png)
+    ![](./media/media7/image13.png)
 
 7.  Select **Workspace settings.**
 
-![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/media7/image14.png)
 
 8.  Select **License info** and check that workspace is created under
     **Fabric Capacity**
 
-![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/media7/image15.png)
 
 ## Task 3 – Import Files to Lakehouse in Fabric
@@ -170,15 +170,14 @@ generated](./media/media7/image15.png)
  
 11.	 Give a proper name for the table and select **Load**.
 
-        ![](./media/media7/image24.png)
+    ![](./media/media7/image24.png)
  
 12.	It will take some time to load
 
 13.	 You will see the table is created.
 
-        ![](./media/media7/image25.png)
+    ![](./media/media7/image25.png)
  
-
 
 ## Task 4 - Generate report using Copilot in Power BI Service
 
@@ -201,33 +200,33 @@ generated](./media/media7/image15.png)
 
 1.  Select **Copilot** from the ribbon.
 
-![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/media7/image28.png)
 
 2.  Select Suggest content for new report page.
 
-![A screenshot of a chat Description automatically
+    ![A screenshot of a chat Description automatically
 generated](./media/media7/image29.png)
 
 3.  Copilot suggests prompts based on the interpretation.
 
-![A screenshot of a survey Description automatically
+    ![A screenshot of a survey Description automatically
 generated](./media/media7/image30.png)
 
 4.  Create a report for **Customer Age Analysis.**
 
-![A screenshot of a phone Description automatically
+    ![A screenshot of a phone Description automatically
 generated](./media/media7/image31.png)
 
-![](./media/media7/image32.png)
+    ![](./media/media7/image32.png)
 
 5.  A report page is created.
 
-![](./media/media7/image33.png)
+    ![](./media/media7/image33.png)
 
 6.  Select Narrative under Visualizations.
 
-![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/media7/image34.png)
 
 7.  Select **Copilot(Preview)** on the **Choose the narrative type**
@@ -236,19 +235,19 @@ generated](./media/media7/image34.png)
 8.  Using the original suggested prompt. – Select **Give an Executive
     Summary**
 
-![](./media/media7/image35.png)
+    ![](./media/media7/image35.png)
 
 9.  Using the first modification of the custom prompt. First, we modify
     the narrative with this custom prompt. Enter - **Shorten this
     summary and bold the key information**
 
-![](./media/media7/image36.png)
+    ![](./media/media7/image36.png)
 
 10. Now let’s move to **Second modification: Custom prompt.** This time,
     we again modify the summary by using a different custom prompt.
     Enter - **Make the first bullet point about Average age**
 
-![](./media/media7/image37.png)
+    ![](./media/media7/image37.png)
 
 11. Now, let’s perform the **Third modification: Custom prompt.** This
     time, we again modify the summary by using a different custom prompt
@@ -259,18 +258,18 @@ generated](./media/media7/image34.png)
     2.  Enter - Add the question "What are the factors that influence
         the customer age”
 
-![](./media/media7/image38.png)
+    ![](./media/media7/image38.png)
 
 ## Task 5 – Create a narrative answer about something specific in your report
 
 1.  Generate a report for Geographical distribution prompt.
 
-![A screenshot of a social media post Description automatically
+    ![A screenshot of a social media post Description automatically
 generated](./media/media7/image39.png)
 
 2.  The Report is created accordingly to the prompt.
 
-![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/media7/image40.png)
 
 3.  Open the **Narrative** from the **Visualizations** again. Then
@@ -282,7 +281,7 @@ generated](./media/media7/image40.png)
 5.  Enter - Generate a summary explaining the relationship between
     Average spend by Zipcode and Customer since.
 
-![](./media/media7/image41.png)
+    ![](./media/media7/image41.png)
 
 6.  The copilot generates output narrative accordingly.
 
