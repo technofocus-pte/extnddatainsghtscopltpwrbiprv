@@ -1,4 +1,4 @@
-# Using natural language to enhance Q&A with Copilot for Power BI
+# Lab 10 - Using natural language to enhance Q&A with Copilot for Power BI
 
 **Objective** - In this Lab, you will learn about using Q&A module in Power BI with Copilot
 
@@ -13,7 +13,7 @@
 
 3.  Select **Open**
 
-![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/media10/image1.png)
 
 4.  Select **Browse this device and** navigate to **C:\LabFiles.**
@@ -23,17 +23,17 @@ generated](./media/media10/image1.png)
 
 6.  Open a new page by selecting **+**(plus).
 
-![](./media/media10/image2.png)
+    ![](./media/media10/image2.png)
 
 7.  Start on a blank report page and select the **Q&A visual** icon on
     the **Visualizations** \> **Build visual** pane.
 
-![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/media10/image3.png)
 
 8.  The Q&A window is visible.
 
-![](./media/media10/image4.png)
+    ![](./media/media10/image4.png)
 
 9.  To customize your visual, select a suggested question or enter text
     in the Q&A question field, where it says *Ask a question about your
@@ -43,7 +43,7 @@ Power BI determines the appropriate visual type based on the selected
 suggestion or entered text. In our example, Power BI determines that a
 map visual is best suited to display the data.
 
-![](./media/media10/image5.png)
+    ![](./media/media10/image5.png)
 
 
 ### Task 2 - Create a Q&A visual with a natural language query
@@ -56,7 +56,7 @@ map visual is best suited to display the data.
     unrecognized term. The two suggestions can satisfy our intended
     question.
 
-![](./media/media10/image7.png)
+    ![](./media/media10/image7.png)
 
 3.  Let's choose the last suggestion in the list. Enter more text for
     the current question. Enter - **Total sum of revenue for Vanarsdel
@@ -66,20 +66,20 @@ map visual is best suited to display the data.
     word the question by using terminology from the semantic model. The
     suggested terms are underlined in blue.
 
-![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/media10/image8.png)
 
 4.  With Power BI's help, we're able to ask a question with all
     recognizable terms. Power BI displays the results accordingly.
 
-![A graph on a white background Description automatically
+    ![A graph on a white background Description automatically
 generated](./media/media10/image9.png)
 
 5.  Instruct the Q&A visual to show the data in columns by adjusting
     your question. At the end of your current query, enter the text "as
     a column chart."
 
-![A graph with blue lines Description automatically generated with
+    ![A graph with blue lines Description automatically generated with
 medium confidence](./media/media10/image10.png)
 
 ### Task 3 - Enhancing Q&A with Copilot for Power BI
@@ -87,52 +87,52 @@ medium confidence](./media/media10/image10.png)
 1.  One a new page in the report, in the Q&A window. Enter – **Show
     available manufacturers by region** and run the query.
 
-![](./media/media10/image11.png)
+    ![](./media/media10/image11.png)
 
 2.  The available word is not identified. Hence, we can assign synonym
     to **available manufacturers** to **Manufacturers**
 
 3.  Select the gear icon on the Q&A window.
 
-![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/media10/image12.png)
 
 4.  Select **Synonyms**.
 
-![A screenshot of a computer screen Description automatically
+    ![A screenshot of a computer screen Description automatically
 generated](./media/media10/image13.png)
 
 5.  Expand **Manufacturers.**
 
-![](./media/media10/image14.png)
+    ![](./media/media10/image14.png)
 
 6.  **Add available manufacturers for manufacturers (First one).**
 
-![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/media10/image15.png)
 
-![](./media/media10/image16.png)
+    ![](./media/media10/image16.png)
 
 7.  Now it recognises the word
 
-![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/media10/image17.png)
 
 8.  If we want to refer to a name with other name, we can teach Q&A. If
     we want to teach **Region** as **Location**. Select the gear icon.
 
-![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/media10/image18.png)
 
 9.  Select **Region** an alternative for **Location** and select
     **Save**
 
-![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/media10/image19.png)
 
 10. The result is displayed
 
-![](./media/media10/image20.png)
+    ![](./media/media10/image20.png)
 
 
 **Summary** - Congratulations!! You have successfully learnt about using Q&A module in Power BI with Copilot
