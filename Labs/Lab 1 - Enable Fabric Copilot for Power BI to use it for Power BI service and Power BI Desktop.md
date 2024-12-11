@@ -1,10 +1,6 @@
-# Enable Fabric Copilot for Power BI to use it for Power BI service and Power BI Desktop
+# Lab 1 - Enable Fabric Copilot for Power BI to use it for Power BI service and Power BI Desktop
 
-**Objective** 
-
-1. In this lab, you will enable the trial Fabric license and create a Fabric capacity which you will be using to execute the further labs
-
-2. You will also know to use Copilot in Power BI service and desktop
+**Objective** - In this lab, you will enable the trial Fabric license and create a Fabric capacity which you will be using to execute the further labs. You will also know to use Copilot in Power BI service and desktop
 
 ## Task 1 - Enable Fabric Trial License
 
@@ -14,39 +10,39 @@
 
 2.  Click on **Try for Free.**
 
-![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/media1/image1.png)
 
 3.  Enter your credentials.
 
-![A screenshot of a login screen Description automatically
+    ![A screenshot of a login screen Description automatically
 generated](./media/media1/image2.png)
 
 4.  Once you enter your credentials and selected Next. You will be
     navigated to Microsoft Fabric Home page.
 
-![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/media1/image3.png)
 
 5.  You must make sure that the Trial licence is enabled by selecting
     the account on top-right corner of the Fabric home page. Select
     **Free Trial.**
 
-![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/media1/image4.png)
 
 6.  Select **Free Trial.**
 
-![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/media1/image5.png)
 
 7.  Once it is enabled, select **Fabric Home Page.** You will be
     navigated to Fabric Home Page.
 
-![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/media1/image6.png)
 
-![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/media1/image7.png)
 
 ## Task 2 - Create Fabric Capacity using Azure portal
@@ -73,27 +69,24 @@ resource from the Azure portal, and search for Fabric.
     represented by three horizontal bars on the left side of the
     Microsoft Azure command bar as shown in the below image.
 
-> ![A screenshot of a computer Description automatically
-> generated](./media/media1/image8.png)
+    ![A screenshot of a computer Description automatically generated](./media/media1/image8.png)
 
 3.  Navigate and click on **+ Create a resource**.
 
-> ![A screenshot of a computer Description automatically
-> generated](./media/media1/image9.png)
+    ![A screenshot of a computer Description automatically generated](./media/media1/image9.png)
 
 4.  On **Create a resource** page, in the **Search services and
     marketplace** search bar, type!!**Fabric!!**, then select
     **Microsoft fabric**.
 
-> ![A screenshot of a computer Description automatically
-> generated](./media/media1/image10.png)
+    ![A screenshot of a computer Description automatically generated](./media/media1/image10.png)
 
 5.  In the **Marketplace** page, navigate to the **Microsoft Fabric**
     section, click on the **Create** button dropdown, then select
     **Microsoft Fabric** as shown in the image.
 
-> ![A screenshot of a computer Description automatically
-> generated](./media/media1/image11.png)
+    ![A screenshot of a computer Description automatically
+generated](./media/media1/image11.png)
 
 6.  In the **Create Fabric capacity** window, under the **Basics** tab,
     enter the following details and click on the **Review+create**
@@ -111,17 +104,17 @@ resource from the Azure portal, and search for Fabric.
 
         
 
-> ![](./media/media1/image12.png)
+    ![](./media/media1/image12.png)
 
 7.  Once the Validation is succeeded, click on the **Create** button.
 
-> ![A screenshot of a computer Description automatically
-> generated](./media/media1/image13.png)
+    ![A screenshot of a computer Description automatically
+generated](./media/media1/image13.png)
 
 8.  After the deployment is completed, click on the **Go to resource**
     button.
 
-![](./media/media1/image14.png)
+    ![](./media/media1/image14.png)
 
 ## Task 3 - Using Copilot for Power BI in the service
 
@@ -137,13 +130,13 @@ above) capacity.
 2.  Go back to **Power BI** window. Select Power BI from the left bottom
     navigation pane.
 
-![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/media1/image15.png)
 
 3.  On the left side navigation menu of **Power BI** Home page, navigate
     and click on **Workspaces**.
 
-![](./media/media1/image16.png)
+    ![](./media/media1/image16.png)
 
 4.  In the Workspaces pane, click on **+** **New workspace button.**
 
@@ -163,24 +156,24 @@ generated](./media/media1/image15.png)
 
     5. **Template apps**	 -  Check the Develop template apps
 
-> ![](./media/media1/image18.png)
->
-> ![](./media/media1/image19.png)
+    ![](./media/media1/image18.png)
+
+    ![](./media/media1/image19.png)
 
 6.  Wait for the deployment to complete. It takes 2-3 minutes to
     complete.
 
-![](./media/media1/image20.png)
+    ![](./media/media1/image20.png)
 
 7.  Select **Workspace settings.**
 
-![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/media1/image21.png)
 
 8.  Select **License info** and check that workspace is created under
     **Fabric Capacity**
 
-![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/media1/image22.png)
 
 ## Task 4 - Using Copilot in Power BI Desktop
@@ -191,30 +184,30 @@ generated](./media/media1/image22.png)
 
 3.  Once you are logged in, select **Copilot.**
 
-![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/media1/image23.png)
 
 4.  Enter the credentials provided to you to execute the lab.
 
 5.  Once you are logged in, you can access apps and services.
 
-![](./media/media1/image24.png)
+    ![](./media/media1/image24.png)
 
 6.  Select **Select Workspace.**
 
 7.  Click on drop-down to select your workspace that you created.
 
-![](./media/media1/image25.png)
+    ![](./media/media1/image25.png)
 
 8.  Select **OK**
 
-![](./media/media1/image26.png)
+    ![](./media/media1/image26.png)
 
 9.  Select **Get Started**
 
-![](./media/media1/image27.png)
+    ![](./media/media1/image27.png)
 
-![A screenshot of a phone Description automatically
+    ![A screenshot of a phone Description automatically
 generated](./media/media1/image28.png)
 
 ## Task 5 - Import Files to Lakehouse in Fabric
